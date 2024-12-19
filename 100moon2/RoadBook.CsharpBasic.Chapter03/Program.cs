@@ -6,7 +6,7 @@ namespace RoadBook.CsharpBasic.Chapter03
     {
         static void Main(string[] args)
         {
-            Examples.Ex001 test = new Examples.Ex001();
+            Examples.Ex002 test = new Examples.Ex002();
             test.Run();
         }
     }
